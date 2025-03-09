@@ -6,7 +6,8 @@ const {
 } = require('../controllers/user'); 
 
 
-
+router.param('userId' userById)
+hello
 
 
 
